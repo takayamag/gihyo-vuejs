@@ -67,3 +67,29 @@ Webアプリケーションの中であるページを設計する際の
 P104
 「Atomic Design」Column内の箇条書きの3行目
 ログインフォームやコメントフォームなナビゲーションバーなど。
+
+P118
+3行目
+〜部分にレンダリングされます。ページを開いてからページ遷移が
+
+P123
+「4.4 サンプルアプリケーションの実装」内の3行目
+ユーザー情報登録・閲覧が可能なアプリケーション用います。
+
+P123
+「補足の*7」内
+ES2015以降でプログラムを作成したい場合もWebpackの利用はほぼ必須です。
+
+P124
+「Vue.js本体とVue Routerの読み込み」のバージョン指定部分
+<script src="https://unpkg.com/vue@2.4.2/dist/vue.min.js"></script>
+<script src="https://unpkg.com/vue-router@2.7.0/dist/vue-router.min.js"></script>
+
+P136
+「4.4.6 サンプルアプリケーションの全体像」内のVue.js本体とVue Routerのバージョン指定部分
+<script src="https://unpkg.com/vue@2.5.17"></script>
+<script src="https://unpkg.com/vue-router@3.1.0"></script>
+
+P147
+「Vue Routerを使った大規模なアプリケーションの実装」コラム内の3行目
+propを使ったデータの受け渡し
